@@ -36,7 +36,7 @@ words.forEach(function name(params) {
     console.log(params);
 })
 
-words.forEach(params => console.log(params.toUpperCase()));
+words.forEach(params => console.log(params.toUpperCase())); // toUpperCasse() fonksiyonu harfleri büyütmek için kullanılır.
 
 words.forEach((params) => {
             let first = params.charAt(0).toUpperCase();
