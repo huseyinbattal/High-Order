@@ -218,4 +218,4 @@ do {
     
     console.log("Çalıştı");
     i++;
-} while (i<5);
+} while (i<5); // do-while döngüsü
