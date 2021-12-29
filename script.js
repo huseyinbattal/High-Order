@@ -29,7 +29,7 @@ for (let i = 0; i < words.length; i++){
     console.log(words[i]);
 }
 let numbers = [1, 2, 3, 4,];
-let a = words.forEach(i => console.log(i));
+let a = words.forEach(i => console.log(i)); // forEach fonksiyonu
 
 
 words.forEach(function name(params) {
